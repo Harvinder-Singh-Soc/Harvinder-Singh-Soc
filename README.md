@@ -1,3 +1,4 @@
+![SOC Analyst Banner](github_banner.png)
 # Hi, I'm Harvinder Singh
 
 Aspiring SOC Analyst focused on Blue Team operations and threat detection.
