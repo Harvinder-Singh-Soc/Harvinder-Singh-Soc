@@ -1,4 +1,4 @@
-![SOC Analyst Banner](github_banner.png)
+![SOC Analyst Banner](https://github.com/Harvinder-Singh-Soc/Harvinder-Singh-Soc/blob/d89a2fa924c7b93e9ae4992eda03562b16a87e64/github_bannner.png)
 # Hi, I'm Harvinder Singh
 
 Aspiring SOC Analyst focused on Blue Team operations and threat detection.
