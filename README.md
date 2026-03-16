@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Harvinder Singh
 
-<!--
-**Harvinder-Singh-Soc/Harvinder-Singh-Soc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring SOC Analyst focused on Blue Team operations and threat detection.
 
-Here are some ideas to get you started:
+## Skills I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• SIEM (Splunk)  
+• Log Analysis  
+• Threat Detection  
+• MITRE ATT&CK  
+• Network Security  
+
+## Hands-on Practice
+
+• TryHackMe Labs  
+• LetsDefend Blue Team Training  
+• Security Tool Practice  
+
+## Currently Learning
+
+SOC investigation techniques and threat detection.
